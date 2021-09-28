@@ -1,7 +1,8 @@
 name: plugin_statusbar
-description: A new Flutter project.
+description: Status bar plugin.
 version: 0.0.1
-homepage:
+homepage: https://github.com/vignarajj/plugin_statusbar
+
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
